@@ -1,0 +1,23 @@
+{
+  "name": "awsome-books-es6-version",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeh1707/awsome-books-es6-version.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aeh1707/awsome-books-es6-version/issues"
+  },
+  "homepage": "https://github.com/aeh1707/awsome-books-es6-version#readme",
+  "dependencies": {
+    "luxon": "^2.4.0"
+  }
+}
