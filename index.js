@@ -4,7 +4,7 @@ import Store from './modules/snpm install --save luxontore.js';
 
 // Date and Time with Luxon
 
-import { DateTime } from './node_modules/luxon/build/es6/luxon.js';
+import { DateTime } from './modules/luxon/build/es6/luxon.js.js';
 
 // displaying book details
 
