@@ -1,10 +1,12 @@
+/* eslint-disable */
+
 import Book from './modules/book.js';
 import Bookinterface from './modules/interface.js';
 import Store from './modules/store.js';
 
 // Date and Time with Luxon
 
-import { DateTime } from './modules/luxon/build/es6/luxon.js';
+import { DateTime } from './modules/luxon.js';
 
 // displaying book details
 
@@ -61,3 +63,5 @@ contactView.addEventListener('click', () => {
 const date = DateTime.now();
 const dateDisplay = document.querySelector('.date-container');
 dateDisplay.textContent = date.toJSDate();
+
+/* eslint-disable */

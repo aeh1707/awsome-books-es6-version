@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Store from './store.js';
 
 export default class Bookinterface {
