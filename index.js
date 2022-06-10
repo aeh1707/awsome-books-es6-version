@@ -1,10 +1,10 @@
 import Book from './modules/book.js';
 import Bookinterface from './modules/interface.js';
-import Store from './modules/snpm install --save luxontore.js';
+import Store from './modules/store.js';
 
 // Date and Time with Luxon
 
-import { DateTime } from './modules/luxon/build/es6/luxon.js.js';
+import { DateTime } from './modules/luxon/build/es6/luxon.js';
 
 // displaying book details
 
